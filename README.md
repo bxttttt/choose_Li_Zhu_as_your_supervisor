@@ -58,7 +58,7 @@
 
 在google上建议搜 li zhu hangzhou dianzi，防止搜到重名的人
 
-![zl的google scholar主页](./zl的google scholar主页.png)
+![zl谷歌学术主页](./zl谷歌学术主页.png)
 
 ![zl硕士期间的一篇论文](./zl硕士期间的一篇论文.png)
 
